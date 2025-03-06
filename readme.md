@@ -1,7 +1,7 @@
 # Test the Project Here : [Live Demo](https://interview-js-two.vercel.app/)
 
 
-# API Interview Questions & Answers
+## API Interview Questions & Answers
 
 ## 1. What is an API, and how does it work?
 An API (Application Programming Interface) is a set of rules that allows different software applications to communicate with each other. It works by sending requests from a client to a server and receiving responses, often in formats like JSON or XML.
